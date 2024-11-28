@@ -1,1 +1,5 @@
-1.0
+{
+  "version": "1.0.0",
+  "update_url": "https://example.com/your-software-installer.exe",
+  "changelog": "https://example.com/changelog.html"
+}
