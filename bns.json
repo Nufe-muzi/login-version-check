@@ -16,7 +16,7 @@
   "UseVideo": false,
   "Screen_after":false,
   "CheckVersion":true,
-  "CheckBlack": true,
+  "CheckBlack": false,
   "Check_MechineCode": true,
   "Check_IP": true,
   "KOOK_log": "1787199270666229",
